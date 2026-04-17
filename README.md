@@ -7,12 +7,12 @@ This README showcases my professional journey, technical skills, and areas of ex
 <h3 align="center">Full-Stack Developer | IT Support Engineer | Systems Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NABY-S&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="mailto:yeboahs758@gmail.com">
     <img src="https://img.shields.io/badge/-yeboahs758@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/NABY-S">
+    <img src="https://img.shields.io/github/followers/NABY-S?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -30,37 +30,17 @@ This README showcases my professional journey, technical skills, and areas of ex
 
 ### 🛠️ Technical Toolkit
 
-#### **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,php,python,js,java,ts" />
-</p>
+**Languages** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=cpp,php,python,js,java,ts" />
 
-#### **Frontend Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,react,vue,angular" />
-</p>
+**Frontend** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,react,vue,angular" />
 
-#### **Backend & Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres" />
-</p>
+**Backend & DB** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres" />
 
-#### **Cloud, DevOps & Platforms**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,wordpress,wix,flutter" />
-</p>
+**Cloud & DevOps** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=aws,azure,wordpress,wix,flutter" />
 
-#### **Development & Design Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,sublime,ps,ae,apple" />
-</p>
+**Tools & OS** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vscode,sublime,ps,ae,apple" />
 
-#### **Web3 / Blockchain** 🌐
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48" height="48" alt="MetaMask" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="48" height="48" alt="Solana" />
-</p>
+**Web3 / Blockchain** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=solidity" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48" height="48" alt="MetaMask" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="48" height="48" alt="Solana" />
 
 ---
 
@@ -77,8 +57,8 @@ This README showcases my professional journey, technical skills, and areas of ex
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NABY-S&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NABY-S&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -89,9 +69,3 @@ I'm always open to discussing **Web Applications**, **Blockchain Solutions**, **
 
 📫 **Reach me:** [yeboahs758@gmail.com](mailto:yeboahs758@gmail.com)  
 📍 **Based in:** Ghana
-
----
-
-<!--
-💡 Pro Tip: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to activate the visitor counter and stats.
--->
