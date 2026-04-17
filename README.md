@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Yeboah Agyemang Badu
 
-**Full-Stack Developer | IT Support Engineer | Systems Architect**
+**Full-Stack Developer | IT Support Specialist | Systems Administrator**
 
 [![GitHub followers](https://img.shields.io/github/followers/NABY-S?style=social)](https://github.com/NABY-S)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://x.com/YOUR_TWITTER)
