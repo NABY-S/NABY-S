@@ -3,8 +3,7 @@
 **Full-Stack Developer | IT Support Specialist | Systems Administrator**
 
 [![GitHub followers](https://img.shields.io/github/followers/NABY-S?style=social)](https://github.com/NABY-S)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://x.com/YOUR_TWITTER)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-yeboah-agyemang-badu)
 
 ---
 
